@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.pmjobfetcher.monitor</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/python3</string>
+        <string>/Users/jeyvenkat/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LandPM BootCamp/Job Fetcher/fetch_jobs.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/jeyvenkat/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LandPM BootCamp/Job Fetcher</string>
+
+    <!-- Runs once daily at 9:00 AM local time (set your Mac to Europe/Berlin timezone) -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>9</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/jeyvenkat/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LandPM BootCamp/Job Fetcher/output/monitor.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/jeyvenkat/Library/Mobile Documents/com~apple~CloudDocs/Downloads/LandPM BootCamp/Job Fetcher/output/monitor_error.log</string>
+</dict>
+</plist>

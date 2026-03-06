@@ -1,0 +1,29 @@
+name: PM Job Fetcher
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # 9:00 AM CET (UTC+1) every day
+  workflow_dispatch:        # Manual "Run" button in GitHub UI
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run job fetcher
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: python3 fetch_jobs.py
+
+      - name: Save results back to repo
+        run: |
+          git config user.name "PM Job Fetcher Bot"
+          git config user.email "bot@github.com"
+          git add seen_jobs.json weekly_stats.json output/ 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "Jobs: $(date +'%Y-%m-%d')"
+          git push
