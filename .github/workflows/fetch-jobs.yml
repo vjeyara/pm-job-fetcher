@@ -2,7 +2,7 @@ name: PM Job Fetcher
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # 9:00 AM CET (UTC+1) every day
+    - cron: '0 * * * *'    # Every hour, on the hour
   workflow_dispatch:        # Manual "Run" button in GitHub UI
 
 permissions:
