@@ -1,0 +1,24 @@
+name: Test Slack Notification
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send test Slack message
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          python3 -c "
+import urllib.request, json, os
+payload = json.dumps({'text': '<!here> hi thiss a sampel run'}).encode()
+req = urllib.request.Request(
+    os.environ['SLACK_WEBHOOK_URL'],
+    data=payload,
+    headers={'Content-Type': 'application/json'},
+)
+urllib.request.urlopen(req, timeout=10)
+print('Sent!')
+"
