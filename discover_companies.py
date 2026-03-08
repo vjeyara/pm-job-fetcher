@@ -472,6 +472,8 @@ def main():
 
     # Send to Slack
     settings = load_json(SETTINGS_FILE, {})
+    if os.environ.get("SLACK_WEBHOOK_URL"):
+        settings["slack_webhook_url"] = os.environ["SLACK_WEBHOOK_URL"]
     webhook = settings.get("slack_webhook_url", "").strip()
     if webhook and webhook.startswith("https://"):
         print("   Sending Slack summary...", end=" ", flush=True)

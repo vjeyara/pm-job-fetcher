@@ -2,8 +2,9 @@ name: PM Job Fetcher
 
 on:
   schedule:
-    - cron: '0 * * * *'    # Every hour, on the hour
-  workflow_dispatch:        # Manual "Run" button in GitHub UI
+    - cron: '0 * * * *'       # Every hour — job alerts
+    - cron: '0 9 * * 1'       # Every Monday 9am — company discovery
+  workflow_dispatch:            # Manual "Run" button in GitHub UI
 
 permissions:
   contents: write
@@ -23,10 +24,16 @@ jobs:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python3 fetch_jobs.py
 
+      - name: Run company discovery (Mondays only)
+        if: github.event.schedule == '0 9 * * 1' || github.event_name == 'workflow_dispatch'
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_DISCOVERY_WEBHOOK_URL }}
+        run: python3 discover_companies.py
+
       - name: Save results back to repo
         run: |
           git config user.name "PM Job Fetcher Bot"
           git config user.email "bot@github.com"
-          git add seen_jobs.json weekly_stats.json output/ 2>/dev/null || true
+          git add seen_jobs.json weekly_stats.json discovered_companies.json output/ 2>/dev/null || true
           git diff --staged --quiet || git commit -m "Jobs: $(date +'%Y-%m-%d')"
           git push
