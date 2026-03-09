@@ -1,5 +1,5 @@
 {
-  "week_start": "2026-03-02",
+  "week_start": "2026-03-09",
   "companies_at_week_start": [
     "Adyen",
     "Affirm",
@@ -76,18 +76,16 @@
     "SumUp",
     "Thought Machine",
     "Toast",
-    "Traderepublicbank",
-    "Transferwise",
+    "Trade Republic",
     "Twilio",
     "Vanta",
     "Wayve",
     "Webflow",
-    "Wefoxgroup",
+    "Wefox",
+    "Wise",
     "Zilch"
   ],
   "daily": {
-    "2026-03-06": 2,
-    "2026-03-07": 0,
-    "2026-03-08": 0
+    "2026-03-09": 2
   }
 }
