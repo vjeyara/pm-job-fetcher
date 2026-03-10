@@ -761,5 +761,8 @@
   "greenhouse:stripe:7685855": "2026-03-10",
   "lever:spotify:e4ea66cf-2cee-41bc-857b-763715158a1e": "2026-03-10",
   "greenhouse:gocardless:7677557": "2026-03-10",
-  "greenhouse:datadog:7144556": "2026-03-10"
+  "greenhouse:datadog:7144556": "2026-03-10",
+  "ashby:snowflake:2c4b3726-7738-4f94-b81f-9a1dfb24143e": "2026-03-10",
+  "ashby:thought-machine:a3d4b78b-2a9d-435a-b1fe-c852467e0bb2": "2026-03-10",
+  "ashby:thought-machine:f42784b4-3b76-4ee8-91b7-b674ca90c437": "2026-03-10"
 }
