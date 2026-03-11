@@ -784,5 +784,8 @@
   "greenhouse:complyadvantage:8458933002": "2026-03-11",
   "greenhouse:solarisbank:8459010002": "2026-03-11",
   "ashby:cohere:a8122632-cc3b-4a1a-bd78-4b4b9466cb38": "2026-03-11",
-  "ashby:cohere:d9d2740b-8869-462d-85df-21c1941bc13d": "2026-03-11"
+  "ashby:cohere:d9d2740b-8869-462d-85df-21c1941bc13d": "2026-03-11",
+  "greenhouse:stripe:7696434": "2026-03-11",
+  "greenhouse:datadog:7704689": "2026-03-11",
+  "ashby:snowflake:59225e9a-42b8-4efc-b120-c083700cb061": "2026-03-11"
 }
