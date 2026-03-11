@@ -787,5 +787,6 @@
   "ashby:cohere:d9d2740b-8869-462d-85df-21c1941bc13d": "2026-03-11",
   "greenhouse:stripe:7696434": "2026-03-11",
   "greenhouse:datadog:7704689": "2026-03-11",
-  "ashby:snowflake:59225e9a-42b8-4efc-b120-c083700cb061": "2026-03-11"
+  "ashby:snowflake:59225e9a-42b8-4efc-b120-c083700cb061": "2026-03-11",
+  "greenhouse:coinbase:7706215": "2026-03-11"
 }
