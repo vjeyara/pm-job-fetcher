@@ -801,5 +801,9 @@
   "greenhouse:contentful:7695652": "2026-03-12",
   "ashby:cohere:fe2e2971-e2c0-43fd-9ab1-187571776a5d": "2026-03-12",
   "greenhouse:stripe:7651697": "2026-03-12",
-  "greenhouse:gitlab:8457478002": "2026-03-12"
+  "greenhouse:gitlab:8457478002": "2026-03-12",
+  "greenhouse:datadog:7713577": "2026-03-12",
+  "greenhouse:mongodb:7705474": "2026-03-12",
+  "greenhouse:lyft:8461144002": "2026-03-12",
+  "ashby:openai:276bcc4c-9982-4ead-a895-252a73f737d7": "2026-03-12"
 }
