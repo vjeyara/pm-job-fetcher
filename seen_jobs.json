@@ -789,5 +789,7 @@
   "greenhouse:datadog:7704689": "2026-03-11",
   "ashby:snowflake:59225e9a-42b8-4efc-b120-c083700cb061": "2026-03-11",
   "greenhouse:coinbase:7706215": "2026-03-11",
-  "greenhouse:amplitude:8457963002": "2026-03-11"
+  "greenhouse:amplitude:8457963002": "2026-03-11",
+  "greenhouse:anthropic:5148477008": "2026-03-12",
+  "greenhouse:cloudflare:7702476": "2026-03-12"
 }
