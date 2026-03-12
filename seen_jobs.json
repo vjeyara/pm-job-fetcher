@@ -792,5 +792,9 @@
   "greenhouse:amplitude:8457963002": "2026-03-11",
   "greenhouse:anthropic:5148477008": "2026-03-12",
   "greenhouse:cloudflare:7702476": "2026-03-12",
-  "greenhouse:coinbase:6855533": "2026-03-12"
+  "greenhouse:coinbase:6855533": "2026-03-12",
+  "greenhouse:samsara:7700461": "2026-03-12",
+  "greenhouse:mongodb:7523959": "2026-03-12",
+  "ashby:openai:8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3": "2026-03-12",
+  "ashby:openai:b0c47fab-6193-45eb-a71d-5b030c974246": "2026-03-12"
 }
