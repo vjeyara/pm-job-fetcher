@@ -799,5 +799,7 @@
   "ashby:openai:b0c47fab-6193-45eb-a71d-5b030c974246": "2026-03-12",
   "greenhouse:twilio:7619420": "2026-03-12",
   "greenhouse:contentful:7695652": "2026-03-12",
-  "ashby:cohere:fe2e2971-e2c0-43fd-9ab1-187571776a5d": "2026-03-12"
+  "ashby:cohere:fe2e2971-e2c0-43fd-9ab1-187571776a5d": "2026-03-12",
+  "greenhouse:stripe:7651697": "2026-03-12",
+  "greenhouse:gitlab:8457478002": "2026-03-12"
 }
