@@ -796,5 +796,8 @@
   "greenhouse:samsara:7700461": "2026-03-12",
   "greenhouse:mongodb:7523959": "2026-03-12",
   "ashby:openai:8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3": "2026-03-12",
-  "ashby:openai:b0c47fab-6193-45eb-a71d-5b030c974246": "2026-03-12"
+  "ashby:openai:b0c47fab-6193-45eb-a71d-5b030c974246": "2026-03-12",
+  "greenhouse:twilio:7619420": "2026-03-12",
+  "greenhouse:contentful:7695652": "2026-03-12",
+  "ashby:cohere:fe2e2971-e2c0-43fd-9ab1-187571776a5d": "2026-03-12"
 }
