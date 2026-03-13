@@ -806,5 +806,9 @@
   "greenhouse:mongodb:7705474": "2026-03-12",
   "greenhouse:lyft:8461144002": "2026-03-12",
   "ashby:openai:276bcc4c-9982-4ead-a895-252a73f737d7": "2026-03-12",
-  "ashby:notion:c72afd30-6aea-4fa3-b17c-591e5677a6f4": "2026-03-12"
+  "ashby:notion:c72afd30-6aea-4fa3-b17c-591e5677a6f4": "2026-03-12",
+  "greenhouse:anthropic:5150653008": "2026-03-13",
+  "greenhouse:toast:7673399": "2026-03-13",
+  "greenhouse:marqeta:7616189": "2026-03-13",
+  "ashby:openai:b8a12f51-9d6c-4c48-97ef-e44882c0a44a": "2026-03-13"
 }
