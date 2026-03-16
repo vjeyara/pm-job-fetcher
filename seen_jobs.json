@@ -828,5 +828,10 @@
   "greenhouse:n26:7668144": "2026-03-14",
   "ashby:openai:2b4aa186-a90c-4e6c-a544-5f2cc8558525": "2026-03-14",
   "greenhouse:databricks:8458134002": "2026-03-16",
-  "greenhouse:webflow:7721580": "2026-03-16"
+  "greenhouse:webflow:7721580": "2026-03-16",
+  "ashby:snowflake:13cc59ba-600a-435d-b9f1-de95f516a78b": "2026-03-16",
+  "ashby:snowflake:90d6434a-0753-4974-a651-e34908740568": "2026-03-16",
+  "lever:qonto:4aff341d-3732-418f-b6fa-84e36c1e7979": "2026-03-16",
+  "ashby:openai:9685eb6d-8276-4111-be8c-fd1277ad4555": "2026-03-16",
+  "ashby:openai:a006e052-e045-4059-876b-afdb8b73dc1d": "2026-03-16"
 }
