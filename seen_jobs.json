@@ -855,5 +855,9 @@
   "greenhouse:datadog:7723988": "2026-03-17",
   "greenhouse:coinbase:7712294": "2026-03-17",
   "greenhouse:anthropic:5157003008": "2026-03-17",
-  "ashby:openai:01f5e531-4de9-4258-9662-7ad4bdf96ddd": "2026-03-18"
+  "ashby:openai:01f5e531-4de9-4258-9662-7ad4bdf96ddd": "2026-03-18",
+  "greenhouse:sumup:8458928002": "2026-03-18",
+  "greenhouse:wayve:8465547002": "2026-03-18",
+  "ashby:cohere:2a7f1fad-05ff-4260-af36-556d1d694775": "2026-03-18",
+  "ashby:cohere:1d1b300d-254b-48c4-958f-99c6b907f295": "2026-03-18"
 }
