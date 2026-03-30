@@ -976,5 +976,8 @@
   "ashby:openai:f19db7e1-ba36-4efa-a620-d7c7fd85b67b": "2026-03-30",
   "greenhouse:mongodb:7740208": "2026-03-30",
   "greenhouse:reddit:7762079": "2026-03-30",
-  "greenhouse:adyen:7745841": "2026-03-30"
+  "greenhouse:adyen:7745841": "2026-03-30",
+  "greenhouse:samsara:7763345": "2026-03-30",
+  "greenhouse:mongodb:7766542": "2026-03-30",
+  "greenhouse:databricks:8482699002": "2026-03-30"
 }
