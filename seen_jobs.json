@@ -979,5 +979,6 @@
   "greenhouse:adyen:7745841": "2026-03-30",
   "greenhouse:samsara:7763345": "2026-03-30",
   "greenhouse:mongodb:7766542": "2026-03-30",
-  "greenhouse:databricks:8482699002": "2026-03-30"
+  "greenhouse:databricks:8482699002": "2026-03-30",
+  "greenhouse:stripe:7739260": "2026-03-30"
 }
