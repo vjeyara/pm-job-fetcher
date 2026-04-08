@@ -1043,5 +1043,9 @@
   "greenhouse:anthropic:5153773008": "2026-04-07",
   "greenhouse:contentful:7789210": "2026-04-07",
   "greenhouse:instacart:7789312": "2026-04-07",
-  "greenhouse:elastic:7772907": "2026-04-08"
+  "greenhouse:elastic:7772907": "2026-04-08",
+  "greenhouse:stripe:7747178": "2026-04-08",
+  "greenhouse:coinbase:7789404": "2026-04-08",
+  "greenhouse:mercury:5867562004": "2026-04-08",
+  "greenhouse:mercury:5856800004": "2026-04-08"
 }
