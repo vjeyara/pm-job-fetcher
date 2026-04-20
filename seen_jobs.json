@@ -1154,5 +1154,9 @@
   "greenhouse:instacart:7826880": "2026-04-17",
   "lever:spotify:03437e2a-2d5e-4593-9e97-11271014932e": "2026-04-20",
   "greenhouse:celonis:7687708003": "2026-04-20",
-  "lever:spotify:3e76b5e6-c86c-42eb-8be7-05d9246dd901": "2026-04-20"
+  "lever:spotify:3e76b5e6-c86c-42eb-8be7-05d9246dd901": "2026-04-20",
+  "greenhouse:stripe:7822560": "2026-04-20",
+  "greenhouse:toast:7662886": "2026-04-20",
+  "greenhouse:lyft:8513755002": "2026-04-20",
+  "greenhouse:lyft:8514395002": "2026-04-20"
 }
