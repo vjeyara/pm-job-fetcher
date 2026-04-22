@@ -1181,5 +1181,7 @@
   "ashby:openai:e8558280-69dc-438a-b905-623f75ae6d62": "2026-04-22",
   "lever:spotify:f38133ce-c2d7-4473-ab69-6bdcb1703297": "2026-04-22",
   "greenhouse:toast:7821475": "2026-04-22",
-  "lever:qonto:0a53610a-ce0b-4d97-90e2-0ef3ecf51e0e": "2026-04-22"
+  "lever:qonto:0a53610a-ce0b-4d97-90e2-0ef3ecf51e0e": "2026-04-22",
+  "greenhouse:stripe:7768979": "2026-04-22",
+  "lever:spotify:bdb9a046-1f76-46ad-a31b-ce7dd2badcd9": "2026-04-22"
 }
