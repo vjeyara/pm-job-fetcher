@@ -1245,5 +1245,12 @@
   "lever:qonto:feadc191-e77b-49db-af62-6440e7a42d12": "2026-04-29",
   "ashby:thought-machine:d4aa5684-b920-4407-9d2d-56c894ca0f6f": "2026-04-29",
   "greenhouse:anthropic:5203545008": "2026-04-29",
-  "greenhouse:gitlab:8512220002": "2026-04-29"
+  "greenhouse:gitlab:8512220002": "2026-04-29",
+  "greenhouse:chime:8530421002": "2026-04-29",
+  "greenhouse:chime:8530438002": "2026-04-29",
+  "greenhouse:chime:8530184002": "2026-04-29",
+  "greenhouse:duolingo:8530395002": "2026-04-29",
+  "greenhouse:lyft:8515875002": "2026-04-29",
+  "ashby:openai:8699d48a-273b-440a-9bdb-ccb6afe0a853": "2026-04-29",
+  "ashby:cohere:6c661de1-ae72-48e6-9be8-f8ccb5f439d4": "2026-04-29"
 }
