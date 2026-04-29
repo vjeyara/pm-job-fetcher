@@ -1241,5 +1241,7 @@
   "ashby:moss:fc324ea3-7d67-44ee-b55d-a05a48361312": "2026-04-29",
   "greenhouse:mongodb:7851080": "2026-04-29",
   "greenhouse:stripe:7865901": "2026-04-29",
-  "greenhouse:mongodb:7851083": "2026-04-29"
+  "greenhouse:mongodb:7851083": "2026-04-29",
+  "lever:qonto:feadc191-e77b-49db-af62-6440e7a42d12": "2026-04-29",
+  "ashby:thought-machine:d4aa5684-b920-4407-9d2d-56c894ca0f6f": "2026-04-29"
 }
