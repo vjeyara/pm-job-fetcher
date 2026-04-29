@@ -1243,5 +1243,7 @@
   "greenhouse:stripe:7865901": "2026-04-29",
   "greenhouse:mongodb:7851083": "2026-04-29",
   "lever:qonto:feadc191-e77b-49db-af62-6440e7a42d12": "2026-04-29",
-  "ashby:thought-machine:d4aa5684-b920-4407-9d2d-56c894ca0f6f": "2026-04-29"
+  "ashby:thought-machine:d4aa5684-b920-4407-9d2d-56c894ca0f6f": "2026-04-29",
+  "greenhouse:anthropic:5203545008": "2026-04-29",
+  "greenhouse:gitlab:8512220002": "2026-04-29"
 }
