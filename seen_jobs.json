@@ -1267,5 +1267,7 @@
   "greenhouse:mongodb:7838735": "2026-04-30",
   "ashby:snowflake:82dd2965-3860-4c43-aced-64c7515fda9f": "2026-04-30",
   "greenhouse:amplitude:8531103002": "2026-04-30",
-  "greenhouse:toast:7861742": "2026-04-30"
+  "greenhouse:toast:7861742": "2026-04-30",
+  "ashby:vanta:36cdb55a-a5a0-41c3-8e41-806182d43886": "2026-04-30",
+  "greenhouse:scaleai:4669229005": "2026-04-30"
 }
