@@ -1280,5 +1280,7 @@
   "greenhouse:stripe:7858819": "2026-05-01",
   "greenhouse:gusto:7467602": "2026-05-01",
   "ashby:thought-machine:3bb814da-ea6e-432e-9fe9-a7b145c4bc65": "2026-05-01",
-  "ashby:openai:1c67d2de-ef49-44c2-978a-ab0d1dd1e236": "2026-05-01"
+  "ashby:openai:1c67d2de-ef49-44c2-978a-ab0d1dd1e236": "2026-05-01",
+  "greenhouse:anthropic:5208193008": "2026-05-01",
+  "ashby:openai:0f4da2b4-df8a-4560-809d-d0a6ac1ad9bc": "2026-05-01"
 }
