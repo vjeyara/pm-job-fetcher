@@ -1326,5 +1326,7 @@
   "greenhouse:databricks:8538884002": "2026-05-07",
   "greenhouse:datadog:7905006": "2026-05-07",
   "greenhouse:instacart:7904851": "2026-05-07",
-  "ashby:openai:05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d": "2026-05-07"
+  "ashby:openai:05a8cae8-81bd-4f7b-bc48-41ef1bd67e5d": "2026-05-07",
+  "greenhouse:gitlab:8536109002": "2026-05-07",
+  "greenhouse:reddit:7858506": "2026-05-07"
 }
