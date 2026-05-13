@@ -1358,5 +1358,8 @@
   "greenhouse:databricks:8535311002": "2026-05-12",
   "ashby:openai:a3f35235-c6c3-43e3-9c1c-eb844c9b6025": "2026-05-12",
   "ashby:openai:0166f2cc-763b-41d7-9843-e5bc2e9ea5ed": "2026-05-13",
-  "ashby:checkout.com:5b234d2d-e98b-4c9e-ae88-8e98a4e61fe9": "2026-05-13"
+  "ashby:checkout.com:5b234d2d-e98b-4c9e-ae88-8e98a4e61fe9": "2026-05-13",
+  "greenhouse:mongodb:7908293": "2026-05-13",
+  "greenhouse:lyft:8547683002": "2026-05-13",
+  "greenhouse:lyft:8547660002": "2026-05-13"
 }
