@@ -1382,5 +1382,8 @@
   "greenhouse:mongodb:7782383": "2026-05-15",
   "greenhouse:lyft:8550274002": "2026-05-15",
   "greenhouse:lyft:8550252002": "2026-05-15",
-  "ashby:openai:faa6042d-ac67-4a76-a723-3ca7015adc34": "2026-05-15"
+  "ashby:openai:faa6042d-ac67-4a76-a723-3ca7015adc34": "2026-05-15",
+  "greenhouse:toast:7883254": "2026-05-18",
+  "lever:spotify:2a3b6947-2a3b-4d4a-a58d-eb242c3a2cae": "2026-05-18",
+  "lever:spotify:a69512de-6754-411c-a83f-1f944820e559": "2026-05-18"
 }
