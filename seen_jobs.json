@@ -1400,5 +1400,8 @@
   "greenhouse:stripe:7809139": "2026-05-19",
   "greenhouse:reddit:7944159": "2026-05-19",
   "lever:spotify:c25dea90-3b36-4d7f-8011-ef1efd5c6e9e": "2026-05-20",
-  "ashby:openai:6d642115-b495-4119-818d-cdef2003ae93": "2026-05-20"
+  "ashby:openai:6d642115-b495-4119-818d-cdef2003ae93": "2026-05-20",
+  "lever:qonto:73b520ea-cca1-4b29-a9af-ddce38780c90": "2026-05-20",
+  "greenhouse:skyscanner:7946290": "2026-05-20",
+  "greenhouse:skyscanner:7926194": "2026-05-20"
 }
