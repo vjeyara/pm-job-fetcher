@@ -1403,5 +1403,10 @@
   "ashby:openai:6d642115-b495-4119-818d-cdef2003ae93": "2026-05-20",
   "lever:qonto:73b520ea-cca1-4b29-a9af-ddce38780c90": "2026-05-20",
   "greenhouse:skyscanner:7946290": "2026-05-20",
-  "greenhouse:skyscanner:7926194": "2026-05-20"
+  "greenhouse:skyscanner:7926194": "2026-05-20",
+  "greenhouse:stripe:7869917": "2026-05-20",
+  "greenhouse:stripe:7920028": "2026-05-20",
+  "greenhouse:stripe:7920219": "2026-05-20",
+  "greenhouse:sumup:8558272002": "2026-05-20",
+  "greenhouse:sumup:8529498002": "2026-05-20"
 }
