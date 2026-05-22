@@ -1424,5 +1424,7 @@
   "greenhouse:elastic:7950454": "2026-05-21",
   "greenhouse:elastic:7950453": "2026-05-21",
   "greenhouse:datadog:7947683": "2026-05-21",
-  "ashby:snowflake:e90e34f4-9746-483d-8d53-c3d297e06ff9": "2026-05-22"
+  "ashby:snowflake:e90e34f4-9746-483d-8d53-c3d297e06ff9": "2026-05-22",
+  "greenhouse:stripe:7912407": "2026-05-22",
+  "greenhouse:stripe:7953691": "2026-05-22"
 }
