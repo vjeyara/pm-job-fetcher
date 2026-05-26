@@ -1444,5 +1444,9 @@
   "ashby:snowflake:f6a295e5-4651-4d60-81be-0b98adae30f0": "2026-05-25",
   "greenhouse:stripe:7947471": "2026-05-25",
   "greenhouse:elastic:7956403": "2026-05-25",
-  "greenhouse:toast:7930336": "2026-05-26"
+  "greenhouse:toast:7930336": "2026-05-26",
+  "greenhouse:mongodb:7957594": "2026-05-26",
+  "greenhouse:asana:7863427": "2026-05-26",
+  "greenhouse:wayve:8562409002": "2026-05-26",
+  "greenhouse:wayve:8563208002": "2026-05-26"
 }
