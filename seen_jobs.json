@@ -1461,5 +1461,9 @@
   "ashby:snowflake:d1c8f28b-4b18-4dcc-86e7-bb4c3464e661": "2026-05-26",
   "greenhouse:stripe:7927089": "2026-05-26",
   "greenhouse:pagerduty:5990194004": "2026-05-26",
-  "greenhouse:pagerduty:6006378004": "2026-05-26"
+  "greenhouse:pagerduty:6006378004": "2026-05-26",
+  "greenhouse:adyen:7946947": "2026-05-27",
+  "greenhouse:monzo:7825424": "2026-05-27",
+  "greenhouse:hellofresh:7916926": "2026-05-27",
+  "greenhouse:wayve:8564358002": "2026-05-27"
 }
