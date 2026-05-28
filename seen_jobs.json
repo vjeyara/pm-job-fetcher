@@ -1480,5 +1480,9 @@
   "greenhouse:mongodb:7555398": "2026-05-28",
   "greenhouse:toast:7960456": "2026-05-28",
   "greenhouse:toast:7735834": "2026-05-28",
-  "lever:qonto:d1f66e47-fa5b-49ed-9cbe-d357add5362c": "2026-05-28"
+  "lever:qonto:d1f66e47-fa5b-49ed-9cbe-d357add5362c": "2026-05-28",
+  "greenhouse:instacart:7963724": "2026-05-28",
+  "greenhouse:instacart:7963726": "2026-05-28",
+  "greenhouse:databricks:8208109002": "2026-05-28",
+  "greenhouse:wayve:8568841002": "2026-05-28"
 }
