@@ -1565,5 +1565,7 @@
   "ashby:openai:826a1977-8ac8-41d7-b331-f73dbf787cfb": "2026-06-05",
   "greenhouse:robinhood:7589765": "2026-06-05",
   "greenhouse:instacart:7985466": "2026-06-05",
-  "greenhouse:scaleai:4703542005": "2026-06-05"
+  "greenhouse:scaleai:4703542005": "2026-06-05",
+  "greenhouse:mongodb:7946740": "2026-06-08",
+  "greenhouse:mongodb:7946738": "2026-06-08"
 }
