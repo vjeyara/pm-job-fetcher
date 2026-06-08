@@ -1568,5 +1568,9 @@
   "greenhouse:scaleai:4703542005": "2026-06-05",
   "greenhouse:mongodb:7946740": "2026-06-08",
   "greenhouse:mongodb:7946738": "2026-06-08",
-  "greenhouse:n26:7988511": "2026-06-08"
+  "greenhouse:n26:7988511": "2026-06-08",
+  "greenhouse:stripe:7967356": "2026-06-08",
+  "greenhouse:coinbase:7304930": "2026-06-08",
+  "greenhouse:instacart:7989245": "2026-06-08",
+  "greenhouse:instacart:7989243": "2026-06-08"
 }
