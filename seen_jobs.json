@@ -1582,5 +1582,9 @@
   "ashby:openai:067c4444-4214-49e8-8397-7afba5346a8f": "2026-06-09",
   "greenhouse:anthropic:5251609008": "2026-06-09",
   "greenhouse:anthropic:5251612008": "2026-06-09",
-  "lever:qonto:599b0148-94b7-43cd-9b97-231467376e39": "2026-06-09"
+  "lever:qonto:599b0148-94b7-43cd-9b97-231467376e39": "2026-06-09",
+  "greenhouse:stripe:7979422": "2026-06-09",
+  "greenhouse:anthropic:5251699008": "2026-06-09",
+  "greenhouse:elastic:7992591": "2026-06-09",
+  "greenhouse:elastic:7992592": "2026-06-09"
 }
