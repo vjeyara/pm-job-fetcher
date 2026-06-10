@@ -1606,5 +1606,8 @@
   "ashby:snowflake:0131b6dc-50b8-48bc-856a-b797554b484d": "2026-06-10",
   "greenhouse:n26:7996996": "2026-06-10",
   "greenhouse:n26:7996650": "2026-06-10",
-  "ashby:openai:e470ba2c-b649-4a43-8650-3210bd7ca4d3": "2026-06-10"
+  "ashby:openai:e470ba2c-b649-4a43-8650-3210bd7ca4d3": "2026-06-10",
+  "greenhouse:coinbase:7997785": "2026-06-10",
+  "greenhouse:robinhood:7968044": "2026-06-10",
+  "greenhouse:robinhood:7985803": "2026-06-10"
 }
