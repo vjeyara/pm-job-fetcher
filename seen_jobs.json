@@ -1628,5 +1628,11 @@
   "greenhouse:scaleai:4704879005": "2026-06-11",
   "greenhouse:stripe:7981330": "2026-06-12",
   "greenhouse:block:5230139008": "2026-06-12",
-  "greenhouse:databricks:8540665002": "2026-06-12"
+  "greenhouse:databricks:8540665002": "2026-06-12",
+  "greenhouse:anthropic:5256303008": "2026-06-12",
+  "greenhouse:figma:6020719004": "2026-06-12",
+  "greenhouse:duolingo:8590178002": "2026-06-12",
+  "greenhouse:block:5124221008": "2026-06-12",
+  "ashby:cohere:01a34bc3-6421-4af2-bf5b-f42e98155dda": "2026-06-12",
+  "greenhouse:scaleai:4704555005": "2026-06-12"
 }
