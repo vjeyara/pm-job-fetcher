@@ -1625,5 +1625,7 @@
   "greenhouse:coinbase:8001275": "2026-06-11",
   "ashby:openai:df8a1d73-58b9-4571-86f5-da9a12155fbb": "2026-06-11",
   "greenhouse:gusto:7982793": "2026-06-11",
-  "greenhouse:scaleai:4704879005": "2026-06-11"
+  "greenhouse:scaleai:4704879005": "2026-06-11",
+  "greenhouse:stripe:7981330": "2026-06-12",
+  "greenhouse:block:5230139008": "2026-06-12"
 }
