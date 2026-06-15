@@ -1643,5 +1643,8 @@
   "greenhouse:databricks:8569993002": "2026-06-12",
   "ashby:openai:cf1e5c80-f42e-45ab-a937-2a4024b961e1": "2026-06-13",
   "greenhouse:cloudflare:7904142": "2026-06-13",
-  "greenhouse:stripe:7994443": "2026-06-15"
+  "greenhouse:stripe:7994443": "2026-06-15",
+  "greenhouse:coinbase:8008033": "2026-06-15",
+  "greenhouse:reddit:7997186": "2026-06-15",
+  "ashby:openai:73c24685-3508-489d-aa92-203761e79f19": "2026-06-15"
 }
