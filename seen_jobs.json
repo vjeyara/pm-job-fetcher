@@ -1655,5 +1655,10 @@
   "greenhouse:adyen:7985551": "2026-06-16",
   "ashby:mollie:cc083abc-bfd9-49b6-8642-9bfc9ab7338d": "2026-06-16",
   "ashby:cohere:44af407e-28a2-4589-bede-6c5e8ee305bc": "2026-06-16",
-  "ashby:cohere:87e9fd4e-49ac-4242-97be-7da6f718020d": "2026-06-16"
+  "ashby:cohere:87e9fd4e-49ac-4242-97be-7da6f718020d": "2026-06-16",
+  "greenhouse:lyft:8594607002": "2026-06-16",
+  "greenhouse:lyft:8594133002": "2026-06-16",
+  "greenhouse:lyft:8594167002": "2026-06-16",
+  "greenhouse:reddit:8010425": "2026-06-16",
+  "greenhouse:okta:8010464": "2026-06-16"
 }
