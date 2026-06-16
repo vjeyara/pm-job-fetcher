@@ -1648,5 +1648,12 @@
   "greenhouse:reddit:7997186": "2026-06-15",
   "ashby:openai:73c24685-3508-489d-aa92-203761e79f19": "2026-06-15",
   "greenhouse:adyen:7988466": "2026-06-15",
-  "ashby:snowflake:5ee2c3b8-e528-47a2-b47d-62a5eda109c3": "2026-06-16"
+  "ashby:snowflake:5ee2c3b8-e528-47a2-b47d-62a5eda109c3": "2026-06-16",
+  "greenhouse:cloudflare:8007326": "2026-06-16",
+  "ashby:ramp:cf3516f6-4d6b-4872-831f-c8ef4a3078ee": "2026-06-16",
+  "ashby:snowflake:bba57597-846a-4969-b71e-6a9af11f6f31": "2026-06-16",
+  "greenhouse:adyen:7985551": "2026-06-16",
+  "ashby:mollie:cc083abc-bfd9-49b6-8642-9bfc9ab7338d": "2026-06-16",
+  "ashby:cohere:44af407e-28a2-4589-bede-6c5e8ee305bc": "2026-06-16",
+  "ashby:cohere:87e9fd4e-49ac-4242-97be-7da6f718020d": "2026-06-16"
 }
