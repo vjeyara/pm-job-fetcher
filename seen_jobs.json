@@ -1668,5 +1668,8 @@
   "ashby:snowflake:8e88251e-e77e-428e-bccf-dc1ccadc22ef": "2026-06-17",
   "greenhouse:instacart:8014060": "2026-06-17",
   "greenhouse:instacart:8014062": "2026-06-17",
-  "ashby:openai:6351bb6b-992d-4c4e-983d-612d91ede046": "2026-06-17"
+  "ashby:openai:6351bb6b-992d-4c4e-983d-612d91ede046": "2026-06-17",
+  "greenhouse:coinbase:8008047": "2026-06-18",
+  "lever:spotify:a025cf69-f8c6-4873-9a8b-7ca6b1fbe9fd": "2026-06-18",
+  "greenhouse:marqeta:7997084": "2026-06-18"
 }
