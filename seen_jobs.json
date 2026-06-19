@@ -1684,5 +1684,9 @@
   "greenhouse:coinbase:8013948": "2026-06-18",
   "greenhouse:block:5265809008": "2026-06-18",
   "greenhouse:affirm:7776437003": "2026-06-18",
-  "greenhouse:affirm:7776439003": "2026-06-18"
+  "greenhouse:affirm:7776439003": "2026-06-18",
+  "greenhouse:stripe:8017214": "2026-06-19",
+  "greenhouse:instacart:8017419": "2026-06-19",
+  "greenhouse:instacart:8017417": "2026-06-19",
+  "greenhouse:okta:8017505": "2026-06-19"
 }
