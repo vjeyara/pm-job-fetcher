@@ -1714,5 +1714,7 @@
   "greenhouse:anthropic:5274119008": "2026-06-23",
   "greenhouse:hellofresh:8018870": "2026-06-23",
   "greenhouse:datadog:8023763": "2026-06-23",
-  "greenhouse:airtable:8604559002": "2026-06-23"
+  "greenhouse:airtable:8604559002": "2026-06-23",
+  "greenhouse:datadog:8024863": "2026-06-23",
+  "greenhouse:databricks:8560772002": "2026-06-23"
 }
