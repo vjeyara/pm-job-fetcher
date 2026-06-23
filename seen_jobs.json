@@ -1710,5 +1710,7 @@
   "greenhouse:okta:8018330": "2026-06-22",
   "greenhouse:okta:8009100": "2026-06-22",
   "greenhouse:databricks:8598531002": "2026-06-23",
-  "ashby:cohere:582c4a60-14a2-49d5-b4d3-24c4ec50508d": "2026-06-23"
+  "ashby:cohere:582c4a60-14a2-49d5-b4d3-24c4ec50508d": "2026-06-23",
+  "greenhouse:anthropic:5274119008": "2026-06-23",
+  "greenhouse:hellofresh:8018870": "2026-06-23"
 }
