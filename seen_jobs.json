@@ -1716,5 +1716,7 @@
   "greenhouse:datadog:8023763": "2026-06-23",
   "greenhouse:airtable:8604559002": "2026-06-23",
   "greenhouse:datadog:8024863": "2026-06-23",
-  "greenhouse:databricks:8560772002": "2026-06-23"
+  "greenhouse:databricks:8560772002": "2026-06-23",
+  "greenhouse:databricks:8605164002": "2026-06-24",
+  "greenhouse:okta:8022961": "2026-06-24"
 }
