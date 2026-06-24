@@ -1731,5 +1731,12 @@
   "greenhouse:scaleai:4611776005": "2026-06-24",
   "greenhouse:okta:7648611": "2026-06-24",
   "ashby:snowflake:5b04d532-df08-4d10-af9b-3028037e7d8b": "2026-06-24",
-  "greenhouse:scaleai:4709281005": "2026-06-24"
+  "greenhouse:scaleai:4709281005": "2026-06-24",
+  "greenhouse:stripe:8027435": "2026-06-24",
+  "greenhouse:stripe:8010011": "2026-06-24",
+  "greenhouse:databricks:8439170002": "2026-06-24",
+  "ashby:snowflake:f596649b-757c-446c-8f2b-1ee3b5c0cd13": "2026-06-24",
+  "greenhouse:wayve:8602921002": "2026-06-24",
+  "greenhouse:wayve:8602768002": "2026-06-24",
+  "ashby:openai:c8b8c150-5175-4ead-b3c8-4226017d838c": "2026-06-24"
 }
