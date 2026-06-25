@@ -1741,5 +1741,6 @@
   "ashby:openai:c8b8c150-5175-4ead-b3c8-4226017d838c": "2026-06-24",
   "greenhouse:wayve:8602891002": "2026-06-25",
   "ashby:openai:f56dc007-5067-4a94-8888-41d015d41ca2": "2026-06-25",
-  "ashby:snowflake:524f31b6-3cbd-44e2-aef1-bc9ffb53be49": "2026-06-25"
+  "ashby:snowflake:524f31b6-3cbd-44e2-aef1-bc9ffb53be49": "2026-06-25",
+  "greenhouse:databricks:8554840002": "2026-06-25"
 }
