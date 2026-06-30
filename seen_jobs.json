@@ -1780,5 +1780,10 @@
   "greenhouse:cloudflare:7757293": "2026-06-30",
   "greenhouse:adyen:7862254": "2026-06-30",
   "ashby:notion:6b9d5c16-450a-42e4-af2a-d492460ca811": "2026-06-30",
-  "greenhouse:celonis:7788415003": "2026-06-30"
+  "greenhouse:celonis:7788415003": "2026-06-30",
+  "greenhouse:stripe:8035198": "2026-06-30",
+  "greenhouse:samsara:8039663": "2026-06-30",
+  "greenhouse:samsara:8035756": "2026-06-30",
+  "greenhouse:samsara:8039658": "2026-06-30",
+  "greenhouse:lyft:8614717002": "2026-06-30"
 }
