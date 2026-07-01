@@ -1795,5 +1795,13 @@
   "greenhouse:elastic:8041211": "2026-07-01",
   "greenhouse:elastic:8041203": "2026-07-01",
   "greenhouse:elastic:8041209": "2026-07-01",
-  "greenhouse:webflow:8038479": "2026-07-01"
+  "greenhouse:webflow:8038479": "2026-07-01",
+  "greenhouse:stripe:8014533": "2026-07-01",
+  "greenhouse:brex:8614858002": "2026-07-01",
+  "greenhouse:brex:8616327002": "2026-07-01",
+  "greenhouse:brex:8616324002": "2026-07-01",
+  "greenhouse:affirm:7786007003": "2026-07-01",
+  "greenhouse:affirm:7786009003": "2026-07-01",
+  "greenhouse:okta:8041551": "2026-07-01",
+  "greenhouse:okta:8038929": "2026-07-01"
 }
