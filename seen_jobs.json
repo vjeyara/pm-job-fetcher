@@ -1810,5 +1810,9 @@
   "greenhouse:scaleai:4711480005": "2026-07-01",
   "greenhouse:affirm:7691159003": "2026-07-02",
   "greenhouse:affirm:7691157003": "2026-07-02",
-  "greenhouse:hellofresh:8031742": "2026-07-02"
+  "greenhouse:hellofresh:8031742": "2026-07-02",
+  "greenhouse:stripe:8040052": "2026-07-02",
+  "greenhouse:databricks:8583037002": "2026-07-02",
+  "greenhouse:databricks:8586460002": "2026-07-02",
+  "greenhouse:databricks:8549259002": "2026-07-02"
 }
