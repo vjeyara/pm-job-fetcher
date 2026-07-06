@@ -1831,5 +1831,8 @@
   "greenhouse:mongodb:8044870": "2026-07-06",
   "greenhouse:pinterest:8016532": "2026-07-06",
   "ashby:mollie:6fc5d10c-a8b3-4751-a40c-6f66e9074dcf": "2026-07-06",
-  "ashby:openai:ee047eec-ae79-474b-9f1b-764242bc3c63": "2026-07-06"
+  "ashby:openai:ee047eec-ae79-474b-9f1b-764242bc3c63": "2026-07-06",
+  "greenhouse:coinbase:8031208": "2026-07-06",
+  "ashby:snowflake:014c61e9-fd33-47a3-b002-975e27364982": "2026-07-06",
+  "ashby:snowflake:e72df92e-951f-4c64-8016-1def8cf7e05d": "2026-07-06"
 }
