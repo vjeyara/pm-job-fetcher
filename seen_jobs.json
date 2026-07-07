@@ -1836,5 +1836,7 @@
   "ashby:snowflake:014c61e9-fd33-47a3-b002-975e27364982": "2026-07-06",
   "ashby:snowflake:e72df92e-951f-4c64-8016-1def8cf7e05d": "2026-07-06",
   "greenhouse:anthropic:5252793008": "2026-07-07",
-  "greenhouse:lyft:8621699002": "2026-07-07"
+  "greenhouse:lyft:8621699002": "2026-07-07",
+  "greenhouse:coinbase:8047657": "2026-07-07",
+  "greenhouse:lyft:8599672002": "2026-07-07"
 }
