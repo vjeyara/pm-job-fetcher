@@ -1856,5 +1856,13 @@
   "greenhouse:reddit:8049762": "2026-07-07",
   "ashby:openai:33b8effb-b048-4934-a279-87fff192a330": "2026-07-07",
   "greenhouse:stripe:8050340": "2026-07-08",
-  "greenhouse:n26:7930011": "2026-07-08"
+  "greenhouse:n26:7930011": "2026-07-08",
+  "greenhouse:datadog:8050874": "2026-07-08",
+  "greenhouse:gitlab:8612937002": "2026-07-08",
+  "ashby:snowflake:b22cbd8d-7f30-4699-890e-b93eb90ef4e8": "2026-07-08",
+  "greenhouse:n26:8050888": "2026-07-08",
+  "greenhouse:n26:8043854": "2026-07-08",
+  "greenhouse:celonis:7798592003": "2026-07-08",
+  "greenhouse:celonis:7798590003": "2026-07-08",
+  "greenhouse:hellofresh:8043204": "2026-07-08"
 }
