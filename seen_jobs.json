@@ -1884,5 +1884,8 @@
   "greenhouse:databricks:8604596002": "2026-07-10",
   "greenhouse:adyen:8045868": "2026-07-10",
   "greenhouse:stripe:8043083": "2026-07-10",
-  "ashby:openai:004ae8f4-245b-4aad-8903-9daabdb58bb9": "2026-07-10"
+  "ashby:openai:004ae8f4-245b-4aad-8903-9daabdb58bb9": "2026-07-10",
+  "greenhouse:gusto:8039574": "2026-07-10",
+  "greenhouse:webflow:8054709": "2026-07-10",
+  "lever:spotify:0cb3b774-3c2c-4b9b-ba35-fa983c2c6e68": "2026-07-10"
 }
