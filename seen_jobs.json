@@ -1896,5 +1896,6 @@
   "ashby:openai:37d6637c-48aa-48c7-8665-ec5abfcf32d0": "2026-07-13",
   "greenhouse:datadog:8060821": "2026-07-13",
   "greenhouse:block:5342908008": "2026-07-13",
-  "greenhouse:stripe:8055659": "2026-07-14"
+  "greenhouse:stripe:8055659": "2026-07-14",
+  "greenhouse:coinbase:8060662": "2026-07-14"
 }
