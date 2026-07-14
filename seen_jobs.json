@@ -1904,5 +1904,10 @@
   "greenhouse:stripe:8064526": "2026-07-14",
   "greenhouse:stripe:8064900": "2026-07-14",
   "greenhouse:mongodb:8054250": "2026-07-14",
-  "greenhouse:pinterest:8050699": "2026-07-14"
+  "greenhouse:pinterest:8050699": "2026-07-14",
+  "greenhouse:datadog:8064898": "2026-07-14",
+  "greenhouse:datadog:8065192": "2026-07-14",
+  "greenhouse:datadog:8065187": "2026-07-14",
+  "greenhouse:datadog:8030837": "2026-07-14",
+  "greenhouse:scaleai:4713648005": "2026-07-14"
 }
