@@ -1895,5 +1895,6 @@
   "ashby:openai:97681dd5-65ad-4eb5-b692-e6d192871c38": "2026-07-13",
   "ashby:openai:37d6637c-48aa-48c7-8665-ec5abfcf32d0": "2026-07-13",
   "greenhouse:datadog:8060821": "2026-07-13",
-  "greenhouse:block:5342908008": "2026-07-13"
+  "greenhouse:block:5342908008": "2026-07-13",
+  "greenhouse:stripe:8055659": "2026-07-14"
 }
