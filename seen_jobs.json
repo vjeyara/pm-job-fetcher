@@ -1965,5 +1965,7 @@
   "ashby:cohere:cd987666-aeda-4da6-a23c-d84d4231d33b": "2026-07-20",
   "greenhouse:databricks:8637368002": "2026-07-21",
   "greenhouse:datadog:8069340": "2026-07-21",
-  "greenhouse:stripe:8007738": "2026-07-21"
+  "greenhouse:stripe:8007738": "2026-07-21",
+  "greenhouse:datadog:8076871": "2026-07-21",
+  "greenhouse:datadog:8067190": "2026-07-21"
 }
