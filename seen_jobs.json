@@ -1976,5 +1976,8 @@
   "ashby:snowflake:11b8a499-e607-4cd4-8fbf-cf56e44e5644": "2026-07-21",
   "ashby:openai:5edd5a13-2fc9-427c-ad88-2b67c97a0afe": "2026-07-21",
   "ashby:cohere:10306789-4fd5-4f1d-90aa-8132c2df2848": "2026-07-21",
-  "greenhouse:twilio:8069243": "2026-07-21"
+  "greenhouse:twilio:8069243": "2026-07-21",
+  "greenhouse:anthropic:5324349008": "2026-07-21",
+  "greenhouse:scaleai:4716784005": "2026-07-21",
+  "greenhouse:scaleai:4716772005": "2026-07-21"
 }
