@@ -1970,5 +1970,10 @@
   "greenhouse:datadog:8067190": "2026-07-21",
   "greenhouse:datadog:8077142": "2026-07-21",
   "ashby:openai:d2164371-83b0-4a39-86b1-f6c497bad175": "2026-07-21",
-  "greenhouse:mercury:6121369004": "2026-07-21"
+  "greenhouse:mercury:6121369004": "2026-07-21",
+  "greenhouse:datadog:8077676": "2026-07-21",
+  "greenhouse:twilio:8069245": "2026-07-21",
+  "ashby:snowflake:11b8a499-e607-4cd4-8fbf-cf56e44e5644": "2026-07-21",
+  "ashby:openai:5edd5a13-2fc9-427c-ad88-2b67c97a0afe": "2026-07-21",
+  "ashby:cohere:10306789-4fd5-4f1d-90aa-8132c2df2848": "2026-07-21"
 }
