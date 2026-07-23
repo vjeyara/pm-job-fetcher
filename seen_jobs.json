@@ -2001,5 +2001,9 @@
   "greenhouse:elastic:8081012": "2026-07-23",
   "greenhouse:elastic:8067977": "2026-07-23",
   "greenhouse:elastic:8081015": "2026-07-23",
-  "greenhouse:stripe:8081418": "2026-07-23"
+  "greenhouse:stripe:8081418": "2026-07-23",
+  "greenhouse:samsara:8060732": "2026-07-23",
+  "greenhouse:okta:8080748": "2026-07-23",
+  "ashby:vanta:f7225fae-2203-4332-8ea4-8569c7e371d1": "2026-07-23",
+  "greenhouse:marqeta:8023938": "2026-07-23"
 }
