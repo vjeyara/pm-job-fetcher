@@ -2025,5 +2025,8 @@
   "greenhouse:lyft:8648144002": "2026-07-24",
   "ashby:openai:83b3ef17-5211-403d-b763-850e1c60faa0": "2026-07-24",
   "ashby:snowflake:e2a5504a-faa3-4193-8636-7942770a3b6c": "2026-07-25",
-  "greenhouse:mercury:6126980004": "2026-07-25"
+  "greenhouse:mercury:6126980004": "2026-07-25",
+  "greenhouse:stripe:8081754": "2026-07-27",
+  "greenhouse:figma:6123582004": "2026-07-27",
+  "ashby:notion:9cded2a2-2666-4108-a2bb-23cb63c92a24": "2026-07-27"
 }
