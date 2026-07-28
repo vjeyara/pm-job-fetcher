@@ -2033,5 +2033,7 @@
   "ashby:snowflake:61d48d79-aeb8-45fb-806a-5b6e9f625de7": "2026-07-27",
   "ashby:openai:5c4fec38-39d8-4f03-b67e-891893ce2550": "2026-07-28",
   "greenhouse:scaleai:4718559005": "2026-07-28",
-  "greenhouse:stripe:8081423": "2026-07-28"
+  "greenhouse:stripe:8081423": "2026-07-28",
+  "greenhouse:elastic:8089443": "2026-07-28",
+  "greenhouse:hellofresh:7972432": "2026-07-28"
 }
