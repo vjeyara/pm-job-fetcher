@@ -2043,5 +2043,7 @@
   "greenhouse:datadog:8092004": "2026-07-28",
   "greenhouse:samsara:8083905": "2026-07-28",
   "greenhouse:okta:8076030": "2026-07-28",
-  "ashby:openai:802613d6-afcf-4a87-bccf-b5f0a8b8ab30": "2026-07-28"
+  "ashby:openai:802613d6-afcf-4a87-bccf-b5f0a8b8ab30": "2026-07-28",
+  "greenhouse:gitlab:8643154002": "2026-07-28",
+  "ashby:openai:1d80776d-c6ee-486e-8674-2cfe2a692e0e": "2026-07-28"
 }
