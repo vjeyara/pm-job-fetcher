@@ -2047,5 +2047,9 @@
   "greenhouse:gitlab:8643154002": "2026-07-28",
   "ashby:openai:1d80776d-c6ee-486e-8674-2cfe2a692e0e": "2026-07-28",
   "greenhouse:samsara:8092981": "2026-07-28",
-  "greenhouse:stripe:8054121": "2026-07-29"
+  "greenhouse:stripe:8054121": "2026-07-29",
+  "greenhouse:asana:8079906": "2026-07-29",
+  "greenhouse:elastic:8088818": "2026-07-29",
+  "greenhouse:elastic:8093933": "2026-07-29",
+  "greenhouse:hellofresh:8093756": "2026-07-29"
 }
