@@ -2124,5 +2124,14 @@
   "greenhouse:pinterest:7959458": "2026-08-06",
   "ashby:cohere:a3981a28-9f41-48a7-9ffe-2e7f9675e486": "2026-08-06",
   "greenhouse:elastic:8109521": "2026-08-06",
-  "greenhouse:block:5212159008": "2026-08-06"
+  "greenhouse:block:5212159008": "2026-08-06",
+  "greenhouse:anthropic:5380377008": "2026-08-07",
+  "greenhouse:gitlab:8684348002": "2026-08-07",
+  "greenhouse:gusto:7868243": "2026-08-07",
+  "greenhouse:asana:8113068": "2026-08-07",
+  "greenhouse:reddit:8075185": "2026-08-07",
+  "greenhouse:cloudflare:8106415": "2026-08-07",
+  "greenhouse:okta:7993489": "2026-08-07",
+  "ashby:snowflake:35320566-ce01-4204-b366-80b1b914c785": "2026-08-07",
+  "ashby:openai:aeac2b78-1f4a-4dfe-b88f-25fc8adf5bb3": "2026-08-07"
 }
