@@ -2161,5 +2161,8 @@
   "greenhouse:datadog:8119973": "2026-08-10",
   "greenhouse:chime:8694087002": "2026-08-10",
   "greenhouse:samsara:8042109": "2026-08-11",
-  "lever:spotify:9d1764a1-45fc-4e16-a823-7b7453b61d2e": "2026-08-11"
+  "lever:spotify:9d1764a1-45fc-4e16-a823-7b7453b61d2e": "2026-08-11",
+  "greenhouse:stripe:8042309": "2026-08-11",
+  "lever:spotify:7f870908-eeb0-43ee-90be-46f19bcd4b85": "2026-08-11",
+  "greenhouse:adyen:8101509": "2026-08-11"
 }
