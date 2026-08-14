@@ -2199,5 +2199,7 @@
   "ashby:openai:9a6a2f08-d4ef-400b-a765-48b7dab42cc9": "2026-08-13",
   "greenhouse:coinbase:8126484": "2026-08-13",
   "greenhouse:stripe:8069943": "2026-08-14",
-  "greenhouse:wayve:8702742002": "2026-08-14"
+  "greenhouse:wayve:8702742002": "2026-08-14",
+  "greenhouse:mongodb:8126618": "2026-08-14",
+  "greenhouse:mongodb:8126620": "2026-08-14"
 }
