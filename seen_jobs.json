@@ -2204,5 +2204,10 @@
   "greenhouse:mongodb:8126620": "2026-08-14",
   "greenhouse:pinterest:8109351": "2026-08-14",
   "greenhouse:stripe:8122188": "2026-08-14",
-  "greenhouse:okta:7905576": "2026-08-14"
+  "greenhouse:okta:7905576": "2026-08-14",
+  "greenhouse:stripe:8097838": "2026-08-14",
+  "greenhouse:instacart:8120471": "2026-08-14",
+  "greenhouse:instacart:8120469": "2026-08-14",
+  "greenhouse:mercury:6144590004": "2026-08-14",
+  "greenhouse:mercury:6144592004": "2026-08-14"
 }
