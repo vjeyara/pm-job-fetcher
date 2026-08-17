@@ -2212,5 +2212,10 @@
   "greenhouse:mercury:6144592004": "2026-08-14",
   "greenhouse:anthropic:5391787008": "2026-08-15",
   "greenhouse:okta:8128848": "2026-08-17",
-  "greenhouse:pinterest:8049832": "2026-08-17"
+  "greenhouse:pinterest:8049832": "2026-08-17",
+  "greenhouse:stripe:8127890": "2026-08-17",
+  "greenhouse:gitlab:8697043002": "2026-08-17",
+  "greenhouse:twilio:8136763": "2026-08-17",
+  "greenhouse:okta:8130897": "2026-08-17",
+  "ashby:openai:94456c6c-2826-47f9-b5a9-0471fb8b7b96": "2026-08-17"
 }
