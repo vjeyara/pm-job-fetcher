@@ -2264,5 +2264,9 @@
   "ashby:openai:c8c607f4-d29f-46ea-b3ee-5a052ac17278": "2026-08-20",
   "greenhouse:dropbox:8094537": "2026-08-20",
   "greenhouse:stripe:8143563": "2026-08-21",
-  "greenhouse:wayve:8735092002": "2026-08-21"
+  "greenhouse:wayve:8735092002": "2026-08-21",
+  "greenhouse:stripe:7983725": "2026-08-21",
+  "greenhouse:anthropic:5397737008": "2026-08-21",
+  "greenhouse:anthropic:5397741008": "2026-08-21",
+  "greenhouse:duolingo:8737859002": "2026-08-21"
 }
