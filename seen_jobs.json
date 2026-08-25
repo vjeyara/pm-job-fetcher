@@ -2311,5 +2311,7 @@
   "greenhouse:monzo:8156058": "2026-08-25",
   "greenhouse:datadog:8152488": "2026-08-25",
   "greenhouse:mongodb:8082623": "2026-08-25",
-  "greenhouse:adyen:8147288": "2026-08-25"
+  "greenhouse:adyen:8147288": "2026-08-25",
+  "greenhouse:stripe:8127894": "2026-08-25",
+  "greenhouse:amplitude:8746352002": "2026-08-25"
 }
