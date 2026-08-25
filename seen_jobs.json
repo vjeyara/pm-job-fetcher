@@ -2314,5 +2314,11 @@
   "greenhouse:adyen:8147288": "2026-08-25",
   "greenhouse:stripe:8127894": "2026-08-25",
   "greenhouse:amplitude:8746352002": "2026-08-25",
-  "ashby:openai:5953fed7-1466-4e90-94c9-43716a55e032": "2026-08-25"
+  "ashby:openai:5953fed7-1466-4e90-94c9-43716a55e032": "2026-08-25",
+  "greenhouse:duolingo:8747131002": "2026-08-25",
+  "greenhouse:duolingo:8747099002": "2026-08-25",
+  "greenhouse:duolingo:8747275002": "2026-08-25",
+  "greenhouse:duolingo:8747171002": "2026-08-25",
+  "greenhouse:okta:8157043": "2026-08-25",
+  "greenhouse:scaleai:4727138005": "2026-08-25"
 }
