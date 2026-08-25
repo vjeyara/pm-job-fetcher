@@ -2313,5 +2313,6 @@
   "greenhouse:mongodb:8082623": "2026-08-25",
   "greenhouse:adyen:8147288": "2026-08-25",
   "greenhouse:stripe:8127894": "2026-08-25",
-  "greenhouse:amplitude:8746352002": "2026-08-25"
+  "greenhouse:amplitude:8746352002": "2026-08-25",
+  "ashby:openai:5953fed7-1466-4e90-94c9-43716a55e032": "2026-08-25"
 }
