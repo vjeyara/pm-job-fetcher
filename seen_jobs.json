@@ -2329,5 +2329,11 @@
   "ashby:checkout.com:3b221ecf-3764-4b85-82d0-09bb4792179a": "2026-08-26",
   "ashby:moss:9a6c3c3f-fbbd-41c8-b107-482a680d7ea9": "2026-08-26",
   "greenhouse:toast:8147296": "2026-08-26",
-  "greenhouse:affirm:7929523003": "2026-08-26"
+  "greenhouse:affirm:7929523003": "2026-08-26",
+  "greenhouse:datadog:8148092": "2026-08-26",
+  "greenhouse:twilio:8131091": "2026-08-26",
+  "greenhouse:chime:8751073002": "2026-08-26",
+  "greenhouse:affirm:7929525003": "2026-08-26",
+  "ashby:vanta:6d6698d7-7272-4c2a-bc34-807dc269de43": "2026-08-26",
+  "ashby:openai:70d5259a-f18c-4595-bf52-ec03eeeeac4c": "2026-08-26"
 }
