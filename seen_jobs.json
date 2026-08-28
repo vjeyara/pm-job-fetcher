@@ -2347,5 +2347,10 @@
   "greenhouse:duolingo:8755781002": "2026-08-27",
   "greenhouse:cloudflare:8156124": "2026-08-27",
   "greenhouse:cloudflare:8156040": "2026-08-27",
-  "ashby:vanta:20d2c9aa-19da-4370-9378-491312f6f98a": "2026-08-27"
+  "ashby:vanta:20d2c9aa-19da-4370-9378-491312f6f98a": "2026-08-27",
+  "greenhouse:stripe:8160754": "2026-08-28",
+  "greenhouse:anthropic:5407337008": "2026-08-28",
+  "greenhouse:mongodb:8128356": "2026-08-28",
+  "greenhouse:block:5398149008": "2026-08-28",
+  "greenhouse:celonis:7885761003": "2026-08-28"
 }
