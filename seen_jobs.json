@@ -2370,5 +2370,9 @@
   "greenhouse:reddit:8167412": "2026-08-31",
   "greenhouse:cloudflare:8164269": "2026-08-31",
   "greenhouse:databricks:8586857002": "2026-08-31",
-  "ashby:alan:06acf3b9-ffcb-4027-bfce-204316acd42e": "2026-08-31"
+  "ashby:alan:06acf3b9-ffcb-4027-bfce-204316acd42e": "2026-08-31",
+  "greenhouse:stripe:8147961": "2026-08-31",
+  "greenhouse:stripe:8142077": "2026-08-31",
+  "greenhouse:chime:8734106002": "2026-08-31",
+  "ashby:openai:c7c5ef17-af83-483c-a825-f461f9f63b17": "2026-08-31"
 }
