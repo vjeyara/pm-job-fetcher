@@ -2374,5 +2374,7 @@
   "greenhouse:stripe:8147961": "2026-08-31",
   "greenhouse:stripe:8142077": "2026-08-31",
   "greenhouse:chime:8734106002": "2026-08-31",
-  "ashby:openai:c7c5ef17-af83-483c-a825-f461f9f63b17": "2026-08-31"
+  "ashby:openai:c7c5ef17-af83-483c-a825-f461f9f63b17": "2026-08-31",
+  "greenhouse:mongodb:8094528": "2026-09-01",
+  "greenhouse:cloudflare:8158527": "2026-09-01"
 }
