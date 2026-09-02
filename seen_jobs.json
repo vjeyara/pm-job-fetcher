@@ -2384,5 +2384,8 @@
   "ashby:openai:c0f0136e-f4e7-43ca-b3d5-4d7aee5eed7f": "2026-09-01",
   "greenhouse:anthropic:5413314008": "2026-09-02",
   "greenhouse:mongodb:8119628": "2026-09-02",
-  "greenhouse:lyft:8735399002": "2026-09-02"
+  "greenhouse:lyft:8735399002": "2026-09-02",
+  "greenhouse:n26:8023311": "2026-09-02",
+  "greenhouse:celonis:7885800003": "2026-09-02",
+  "greenhouse:celonis:7984249003": "2026-09-02"
 }
