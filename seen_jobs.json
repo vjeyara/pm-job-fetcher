@@ -2433,5 +2433,9 @@
   "greenhouse:stripe:8175629": "2026-09-05",
   "greenhouse:elastic:8171219": "2026-09-07",
   "greenhouse:n26:8184770": "2026-09-07",
-  "greenhouse:n26:8172838": "2026-09-07"
+  "greenhouse:n26:8172838": "2026-09-07",
+  "greenhouse:gitlab:8784056002": "2026-09-08",
+  "lever:spotify:a57db22d-dc0d-4f36-9a2e-34acdf1ec046": "2026-09-08",
+  "ashby:openai:8f9693d9-73c8-48c1-b1cf-b0cd92a1c3c2": "2026-09-08",
+  "ashby:cohere:aa041da3-6aad-4758-9c9e-4a5fab69b694": "2026-09-08"
 }
