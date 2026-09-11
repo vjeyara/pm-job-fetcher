@@ -2490,5 +2490,11 @@
   "greenhouse:mongodb:8127995": "2026-09-11",
   "ashby:snowflake:7576ec7f-01c9-41b9-b451-8cd43e62bf3b": "2026-09-11",
   "greenhouse:adyen:8164042": "2026-09-11",
-  "greenhouse:adyen:8173308": "2026-09-11"
+  "greenhouse:adyen:8173308": "2026-09-11",
+  "greenhouse:databricks:8780470002": "2026-09-11",
+  "greenhouse:n26:8028183": "2026-09-11",
+  "greenhouse:n26:8196495": "2026-09-11",
+  "greenhouse:n26:8196295": "2026-09-11",
+  "ashby:openai:3ed37e51-40dc-4d17-8219-d3500af8892c": "2026-09-11",
+  "greenhouse:mercury:6190280004": "2026-09-11"
 }
