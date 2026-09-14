@@ -2505,5 +2505,8 @@
   "ashby:openai:7495a0fe-be5a-42b4-bded-77870a122776": "2026-09-12",
   "greenhouse:databricks:8578144002": "2026-09-14",
   "greenhouse:robinhood:8199973": "2026-09-14",
-  "greenhouse:hellofresh:8095957": "2026-09-14"
+  "greenhouse:hellofresh:8095957": "2026-09-14",
+  "greenhouse:gitlab:8806017002": "2026-09-14",
+  "greenhouse:gusto:8189537": "2026-09-14",
+  "greenhouse:elastic:8188365": "2026-09-14"
 }
