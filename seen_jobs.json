@@ -2508,5 +2508,7 @@
   "greenhouse:hellofresh:8095957": "2026-09-14",
   "greenhouse:gitlab:8806017002": "2026-09-14",
   "greenhouse:gusto:8189537": "2026-09-14",
-  "greenhouse:elastic:8188365": "2026-09-14"
+  "greenhouse:elastic:8188365": "2026-09-14",
+  "greenhouse:stripe:8202831": "2026-09-15",
+  "greenhouse:databricks:8806815002": "2026-09-15"
 }
