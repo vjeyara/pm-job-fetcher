@@ -2525,5 +2525,12 @@
   "greenhouse:adyen:8161148": "2026-09-16",
   "greenhouse:twilio:8204150": "2026-09-16",
   "greenhouse:toast:8201051": "2026-09-16",
-  "lever:spotify:080868dd-fc8c-4648-b6ab-6780d8ca3d63": "2026-09-16"
+  "lever:spotify:080868dd-fc8c-4648-b6ab-6780d8ca3d63": "2026-09-16",
+  "greenhouse:lyft:8811733002": "2026-09-16",
+  "greenhouse:instacart:8198284": "2026-09-16",
+  "greenhouse:instacart:8198282": "2026-09-16",
+  "greenhouse:instacart:8198159": "2026-09-16",
+  "greenhouse:instacart:8198161": "2026-09-16",
+  "greenhouse:instacart:8203109": "2026-09-16",
+  "greenhouse:instacart:8203107": "2026-09-16"
 }
