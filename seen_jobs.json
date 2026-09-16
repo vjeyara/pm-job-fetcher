@@ -2522,5 +2522,8 @@
   "ashby:cohere:f6100cdd-94fc-4f4b-bac5-7efa5069cdd5": "2026-09-16",
   "greenhouse:stripe:8176256": "2026-09-16",
   "greenhouse:gitlab:8784185002": "2026-09-16",
-  "greenhouse:adyen:8161148": "2026-09-16"
+  "greenhouse:adyen:8161148": "2026-09-16",
+  "greenhouse:twilio:8204150": "2026-09-16",
+  "greenhouse:toast:8201051": "2026-09-16",
+  "lever:spotify:080868dd-fc8c-4648-b6ab-6780d8ca3d63": "2026-09-16"
 }
