@@ -2578,5 +2578,10 @@
   "ashby:openai:356c5dca-472d-458e-826e-51d923e93eaa": "2026-09-22",
   "greenhouse:databricks:8648496002": "2026-09-22",
   "greenhouse:okta:8220226": "2026-09-22",
-  "greenhouse:monzo:8222576": "2026-09-22"
+  "greenhouse:monzo:8222576": "2026-09-22",
+  "greenhouse:chime:8831472002": "2026-09-22",
+  "greenhouse:lyft:8827588002": "2026-09-22",
+  "lever:spotify:e74bfb24-55de-4d93-b228-ae38b8fdfbea": "2026-09-22",
+  "greenhouse:celonis:7989839003": "2026-09-22",
+  "ashby:openai:2b5c3a30-8e8b-4845-be40-0617b0c9fd43": "2026-09-22"
 }
