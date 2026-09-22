@@ -2576,5 +2576,7 @@
   "ashby:openai:83f6d415-9462-4afc-a539-ca8d996e011a": "2026-09-21",
   "greenhouse:anthropic:5400720008": "2026-09-22",
   "ashby:openai:356c5dca-472d-458e-826e-51d923e93eaa": "2026-09-22",
-  "greenhouse:databricks:8648496002": "2026-09-22"
+  "greenhouse:databricks:8648496002": "2026-09-22",
+  "greenhouse:okta:8220226": "2026-09-22",
+  "greenhouse:monzo:8222576": "2026-09-22"
 }
