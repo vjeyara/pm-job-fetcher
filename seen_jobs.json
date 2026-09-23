@@ -2588,5 +2588,7 @@
   "greenhouse:anthropic:5431285008": "2026-09-23",
   "greenhouse:pagerduty:6206060004": "2026-09-23",
   "greenhouse:databricks:8802705002": "2026-09-23",
-  "ashby:openai:137e3df0-2bd4-4ad4-8edb-8455a7fdc912": "2026-09-23"
+  "ashby:openai:137e3df0-2bd4-4ad4-8edb-8455a7fdc912": "2026-09-23",
+  "greenhouse:stripe:8209641": "2026-09-23",
+  "greenhouse:samsara:8212556": "2026-09-23"
 }
