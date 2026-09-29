@@ -2630,5 +2630,11 @@
   "ashby:openai:32ca0028-c12d-4def-a200-946ec8d4ea5f": "2026-09-28",
   "ashby:openai:f9c64ecf-d52a-44f0-9d9f-99575ae80d7f": "2026-09-29",
   "greenhouse:okta:8096540": "2026-09-29",
-  "greenhouse:okta:8214073": "2026-09-29"
+  "greenhouse:okta:8214073": "2026-09-29",
+  "greenhouse:stripe:8237244": "2026-09-29",
+  "greenhouse:lattice:8855945002": "2026-09-29",
+  "greenhouse:lattice:8856380002": "2026-09-29",
+  "greenhouse:samsara:8239916": "2026-09-29",
+  "greenhouse:toast:8226770": "2026-09-29",
+  "greenhouse:okta:8239973": "2026-09-29"
 }
