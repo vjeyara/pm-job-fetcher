@@ -2653,5 +2653,11 @@
   "greenhouse:affirm:8008483003": "2026-10-01",
   "greenhouse:dropbox:8234201": "2026-10-01",
   "greenhouse:dropbox:8234202": "2026-10-01",
-  "greenhouse:cloudflare:8239323": "2026-10-01"
+  "greenhouse:cloudflare:8239323": "2026-10-01",
+  "greenhouse:coinbase:8247881": "2026-10-01",
+  "greenhouse:samsara:8223708": "2026-10-01",
+  "greenhouse:affirm:8006359003": "2026-10-01",
+  "greenhouse:affirm:8006357003": "2026-10-01",
+  "greenhouse:lyft:8860904002": "2026-10-01",
+  "greenhouse:reddit:8237639": "2026-10-01"
 }
