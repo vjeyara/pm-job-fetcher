@@ -2649,5 +2649,9 @@
   "ashby:openai:87ef8476-e930-47ed-abc2-a1bedcc074fb": "2026-09-30",
   "greenhouse:datadog:8237428": "2026-09-30",
   "ashby:notion:be6e1a35-d467-48e6-96bf-62afc4ad0126": "2026-09-30",
-  "ashby:notion:e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f": "2026-09-30"
+  "ashby:notion:e7c18c11-c8ab-47cf-afb6-6bfc61b5e74f": "2026-09-30",
+  "greenhouse:affirm:8008483003": "2026-10-01",
+  "greenhouse:dropbox:8234201": "2026-10-01",
+  "greenhouse:dropbox:8234202": "2026-10-01",
+  "greenhouse:cloudflare:8239323": "2026-10-01"
 }
