@@ -2659,5 +2659,8 @@
   "greenhouse:affirm:8006359003": "2026-10-01",
   "greenhouse:affirm:8006357003": "2026-10-01",
   "greenhouse:lyft:8860904002": "2026-10-01",
-  "greenhouse:reddit:8237639": "2026-10-01"
+  "greenhouse:reddit:8237639": "2026-10-01",
+  "greenhouse:mongodb:8201176": "2026-10-02",
+  "greenhouse:okta:8247721": "2026-10-02",
+  "greenhouse:okta:8213755": "2026-10-02"
 }
