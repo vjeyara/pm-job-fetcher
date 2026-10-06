@@ -2699,5 +2699,13 @@
   "greenhouse:stripe:8241288": "2026-10-06",
   "greenhouse:cloudflare:8243552": "2026-10-06",
   "greenhouse:okta:8258400": "2026-10-06",
-  "greenhouse:n26:7938980": "2026-10-06"
+  "greenhouse:n26:7938980": "2026-10-06",
+  "greenhouse:stripe:8248518": "2026-10-06",
+  "greenhouse:stripe:7983854": "2026-10-06",
+  "greenhouse:stripe:8258815": "2026-10-06",
+  "greenhouse:pagerduty:6218325004": "2026-10-06",
+  "greenhouse:lyft:8865403002": "2026-10-06",
+  "greenhouse:lyft:8865404002": "2026-10-06",
+  "greenhouse:block:5434267008": "2026-10-06",
+  "ashby:snowflake:e5d053f6-2273-4c48-9eca-8b54c8141a20": "2026-10-06"
 }
