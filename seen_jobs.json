@@ -2707,5 +2707,15 @@
   "greenhouse:lyft:8865403002": "2026-10-06",
   "greenhouse:lyft:8865404002": "2026-10-06",
   "greenhouse:block:5434267008": "2026-10-06",
-  "ashby:snowflake:e5d053f6-2273-4c48-9eca-8b54c8141a20": "2026-10-06"
+  "ashby:snowflake:e5d053f6-2273-4c48-9eca-8b54c8141a20": "2026-10-06",
+  "greenhouse:stripe:8234705": "2026-10-07",
+  "greenhouse:anthropic:5443902008": "2026-10-07",
+  "greenhouse:coinbase:8259870": "2026-10-07",
+  "greenhouse:coinbase:8259801": "2026-10-07",
+  "greenhouse:lattice:8841944002": "2026-10-07",
+  "greenhouse:asana:8260059": "2026-10-07",
+  "greenhouse:asana:8194540": "2026-10-07",
+  "ashby:sardine:f2638df2-9503-48d9-96dc-0e70e4f93eff": "2026-10-07",
+  "ashby:openai:a8210588-a178-4afe-91e7-1fa2d269d2e8": "2026-10-07",
+  "greenhouse:mercury:6218705004": "2026-10-07"
 }
