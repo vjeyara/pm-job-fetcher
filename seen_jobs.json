@@ -2781,5 +2781,9 @@
   "ashby:snowflake:3c565761-4ce8-40f4-a346-1997b117afbc": "2026-10-13",
   "ashby:openai:2bdd1b8b-2883-40fb-b006-583959ad4c5f": "2026-10-13",
   "greenhouse:affirm:8011040003": "2026-10-14",
-  "greenhouse:adyen:8280713": "2026-10-14"
+  "greenhouse:adyen:8280713": "2026-10-14",
+  "greenhouse:coinbase:8258909": "2026-10-14",
+  "greenhouse:instacart:8281407": "2026-10-14",
+  "greenhouse:instacart:8281405": "2026-10-14",
+  "greenhouse:mercury:6223264004": "2026-10-14"
 }
