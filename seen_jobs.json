@@ -2803,5 +2803,11 @@
   "ashby:snowflake:68da37c5-7a00-4ddb-810b-63954efb1ed6": "2026-10-15",
   "greenhouse:datadog:8282504": "2026-10-15",
   "greenhouse:datadog:8268065": "2026-10-15",
-  "ashby:openai:fa42ad51-0ffa-4ec4-a004-3f24d790a3d4": "2026-10-15"
+  "ashby:openai:fa42ad51-0ffa-4ec4-a004-3f24d790a3d4": "2026-10-15",
+  "greenhouse:anthropic:5453548008": "2026-10-15",
+  "greenhouse:anthropic:5453550008": "2026-10-15",
+  "greenhouse:twilio:8247185": "2026-10-15",
+  "greenhouse:robinhood:8287392": "2026-10-15",
+  "greenhouse:duolingo:8888045002": "2026-10-15",
+  "greenhouse:block:5442203008": "2026-10-15"
 }
