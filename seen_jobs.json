@@ -2831,5 +2831,8 @@
   "ashby:openai:3228eed1-9cb3-4330-82c3-19fb3dbb4408": "2026-10-19",
   "greenhouse:stripe:8257939": "2026-10-19",
   "greenhouse:lyft:8889185002": "2026-10-19",
-  "greenhouse:lyft:8900844002": "2026-10-19"
+  "greenhouse:lyft:8900844002": "2026-10-19",
+  "greenhouse:pinterest:8263122": "2026-10-20",
+  "greenhouse:okta:8248427": "2026-10-20",
+  "ashby:cohere:b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa": "2026-10-20"
 }
