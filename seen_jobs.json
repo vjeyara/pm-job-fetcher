@@ -2846,5 +2846,9 @@
   "greenhouse:lyft:8900349002": "2026-10-20",
   "greenhouse:lyft:8900191002": "2026-10-20",
   "greenhouse:adyen:8244728": "2026-10-20",
-  "ashby:openai:5f094405-1b54-419b-88b2-df1d7eb16af0": "2026-10-20"
+  "ashby:openai:5f094405-1b54-419b-88b2-df1d7eb16af0": "2026-10-20",
+  "lever:spotify:73a83f73-2f59-4c82-bac3-7dfc5d3355ad": "2026-10-21",
+  "greenhouse:gocardless:8305812": "2026-10-21",
+  "greenhouse:gocardless:8305788": "2026-10-21",
+  "lever:qonto:dd2078ad-9eb8-4a46-870a-2e7dc8a96eaf": "2026-10-21"
 }
