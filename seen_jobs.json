@@ -2921,5 +2921,7 @@
   "greenhouse:mercury:6236462004": "2026-10-28",
   "greenhouse:stripe:8331852": "2026-10-28",
   "greenhouse:mongodb:8327081": "2026-10-28",
-  "greenhouse:lyft:8921735002": "2026-10-28"
+  "greenhouse:lyft:8921735002": "2026-10-28",
+  "greenhouse:elastic:8316745": "2026-10-29",
+  "greenhouse:elastic:8332655": "2026-10-29"
 }
