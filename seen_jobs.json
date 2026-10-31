@@ -2942,5 +2942,8 @@
   "greenhouse:twilio:8268235": "2026-10-30",
   "greenhouse:okta:8332523": "2026-10-30",
   "greenhouse:okta:8260972": "2026-10-30",
-  "ashby:openai:d769a04e-c300-454a-8c68-1c93d04a6bb6": "2026-10-30"
+  "ashby:openai:d769a04e-c300-454a-8c68-1c93d04a6bb6": "2026-10-30",
+  "greenhouse:datadog:8337954": "2026-10-31",
+  "greenhouse:reddit:8319764": "2026-10-31",
+  "greenhouse:instacart:8337981": "2026-10-31"
 }
