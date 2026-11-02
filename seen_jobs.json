@@ -2945,5 +2945,7 @@
   "ashby:openai:d769a04e-c300-454a-8c68-1c93d04a6bb6": "2026-10-30",
   "greenhouse:datadog:8337954": "2026-10-31",
   "greenhouse:reddit:8319764": "2026-10-31",
-  "greenhouse:instacart:8337981": "2026-10-31"
+  "greenhouse:instacart:8337981": "2026-10-31",
+  "greenhouse:toast:8326864": "2026-11-02",
+  "ashby:cohere:ab45a550-14a2-4a74-abfb-83688d4508c1": "2026-11-02"
 }
