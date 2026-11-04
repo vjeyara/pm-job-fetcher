@@ -2973,5 +2973,12 @@
   "greenhouse:stripe:8319831": "2026-11-04",
   "greenhouse:mongodb:8233734": "2026-11-04",
   "greenhouse:toast:8333439": "2026-11-04",
-  "greenhouse:cloudflare:8349425": "2026-11-04"
+  "greenhouse:cloudflare:8349425": "2026-11-04",
+  "greenhouse:stripe:8223113": "2026-11-04",
+  "greenhouse:coinbase:8351170": "2026-11-04",
+  "greenhouse:toast:8327113": "2026-11-04",
+  "greenhouse:okta:8351434": "2026-11-04",
+  "lever:spotify:e0ba7aee-1a0a-43ab-a4c0-d8856c6c2ce3": "2026-11-04",
+  "ashby:openai:73a111f9-e83d-4cce-9148-2a32ccf1d251": "2026-11-04",
+  "greenhouse:mercury:6249882004": "2026-11-04"
 }
