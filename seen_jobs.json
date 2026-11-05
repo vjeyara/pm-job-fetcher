@@ -2985,5 +2985,13 @@
   "greenhouse:databricks:8927394002": "2026-11-05",
   "ashby:openai:5cc72bc7-e6a0-40e0-9f60-23474cd9acdb": "2026-11-05",
   "ashby:openai:e49133e6-4030-4295-b393-1725aa410344": "2026-11-05",
-  "ashby:openai:df242b29-6a84-4968-8d57-cbeec20dee67": "2026-11-05"
+  "ashby:openai:df242b29-6a84-4968-8d57-cbeec20dee67": "2026-11-05",
+  "greenhouse:mongodb:8355989": "2026-11-05",
+  "greenhouse:mongodb:8274035": "2026-11-05",
+  "greenhouse:asana:8338202": "2026-11-05",
+  "greenhouse:duolingo:8932477002": "2026-11-05",
+  "greenhouse:instacart:8356130": "2026-11-05",
+  "greenhouse:instacart:8356128": "2026-11-05",
+  "greenhouse:okta:8347758": "2026-11-05",
+  "ashby:vanta:82dd0fed-120e-4983-a1ae-676ae355cea8": "2026-11-05"
 }
