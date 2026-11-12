@@ -3040,5 +3040,13 @@
   "greenhouse:anthropic:5479122008": "2026-11-12",
   "greenhouse:anthropic:5479135008": "2026-11-12",
   "greenhouse:pinterest:8328631": "2026-11-12",
-  "greenhouse:cloudflare:8365223": "2026-11-12"
+  "greenhouse:cloudflare:8365223": "2026-11-12",
+  "greenhouse:stripe:8384438": "2026-11-12",
+  "greenhouse:stripe:8315951": "2026-11-12",
+  "greenhouse:gitlab:8928325002": "2026-11-12",
+  "greenhouse:lyft:8938484002": "2026-11-12",
+  "greenhouse:reddit:8367400": "2026-11-12",
+  "greenhouse:reddit:8148055": "2026-11-12",
+  "ashby:ramp:a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb": "2026-11-12",
+  "ashby:openai:680833a1-01e4-4689-917c-71a4f00ff86c": "2026-11-12"
 }
