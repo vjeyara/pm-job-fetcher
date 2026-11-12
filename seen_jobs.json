@@ -3032,5 +3032,8 @@
   "greenhouse:coinbase:8374607": "2026-11-11",
   "greenhouse:dropbox:8356675": "2026-11-11",
   "greenhouse:dropbox:8356674": "2026-11-11",
-  "ashby:snowflake:44a8bfd1-593c-4024-8745-a01cca587cb6": "2026-11-11"
+  "ashby:snowflake:44a8bfd1-593c-4024-8745-a01cca587cb6": "2026-11-11",
+  "greenhouse:stripe:8381041": "2026-11-12",
+  "greenhouse:samsara:8327792": "2026-11-12",
+  "ashby:snowflake:1817e4bb-be4a-45ac-8a9f-60b314f0962a": "2026-11-12"
 }
