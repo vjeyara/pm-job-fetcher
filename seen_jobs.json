@@ -3053,5 +3053,9 @@
   "greenhouse:coinbase:8382331": "2026-11-13",
   "greenhouse:affirm:8199157003": "2026-11-13",
   "greenhouse:affirm:8199159003": "2026-11-13",
-  "ashby:openai:4444d839-3f58-4369-a241-985acbbbf2f9": "2026-11-13"
+  "ashby:openai:4444d839-3f58-4369-a241-985acbbbf2f9": "2026-11-13",
+  "greenhouse:anthropic:5481980008": "2026-11-14",
+  "greenhouse:twilio:8386024": "2026-11-14",
+  "greenhouse:toast:8383535": "2026-11-14",
+  "greenhouse:block:5428323008": "2026-11-14"
 }
