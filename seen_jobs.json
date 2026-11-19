@@ -3092,5 +3092,9 @@
   "lever:spotify:5ddb2fa1-4494-48a9-84c0-b646da91edb8": "2026-11-19",
   "greenhouse:adyen:8397314": "2026-11-19",
   "ashby:openai:89959eee-bd3a-4564-9c47-e4771c6c1e0f": "2026-11-19",
-  "ashby:openai:70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b": "2026-11-19"
+  "ashby:openai:70eba6e4-73e0-4cf9-a0d5-e49caeca9d7b": "2026-11-19",
+  "greenhouse:mongodb:8397251": "2026-11-19",
+  "greenhouse:mongodb:8395822": "2026-11-19",
+  "greenhouse:chime:8948694002": "2026-11-19",
+  "greenhouse:adyen:8359357": "2026-11-19"
 }
