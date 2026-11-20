@@ -3096,5 +3096,10 @@
   "greenhouse:mongodb:8397251": "2026-11-19",
   "greenhouse:mongodb:8395822": "2026-11-19",
   "greenhouse:chime:8948694002": "2026-11-19",
-  "greenhouse:adyen:8359357": "2026-11-19"
+  "greenhouse:adyen:8359357": "2026-11-19",
+  "greenhouse:stripe:8165265": "2026-11-20",
+  "greenhouse:toast:8402925": "2026-11-20",
+  "greenhouse:lyft:8952093002": "2026-11-20",
+  "ashby:openai:efae0a22-24d6-4562-834c-1110c5e7677b": "2026-11-20",
+  "ashby:openai:4311ea62-f628-4689-bec5-de886bb1f191": "2026-11-20"
 }
