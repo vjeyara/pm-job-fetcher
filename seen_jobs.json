@@ -3133,5 +3133,10 @@
   "greenhouse:adyen:8276792": "2026-11-24",
   "greenhouse:hellofresh:8411483": "2026-11-24",
   "ashby:openai:681d205f-5b03-4d4d-a024-5ae7815bfde5": "2026-11-24",
-  "ashby:openai:49095b0c-ffea-41be-9cf9-93cb73e40490": "2026-11-24"
+  "ashby:openai:49095b0c-ffea-41be-9cf9-93cb73e40490": "2026-11-24",
+  "greenhouse:coinbase:8396806": "2026-11-25",
+  "greenhouse:coinbase:8415721": "2026-11-25",
+  "greenhouse:mongodb:8386492": "2026-11-25",
+  "greenhouse:adyen:8325581": "2026-11-25",
+  "ashby:openai:eecf56df-1a74-4497-a8cd-ea3890d4155a": "2026-11-25"
 }
