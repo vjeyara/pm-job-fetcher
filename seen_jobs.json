@@ -3138,5 +3138,7 @@
   "greenhouse:coinbase:8415721": "2026-11-25",
   "greenhouse:mongodb:8386492": "2026-11-25",
   "greenhouse:adyen:8325581": "2026-11-25",
-  "ashby:openai:eecf56df-1a74-4497-a8cd-ea3890d4155a": "2026-11-25"
+  "ashby:openai:eecf56df-1a74-4497-a8cd-ea3890d4155a": "2026-11-25",
+  "greenhouse:n26:8416464": "2026-11-25",
+  "greenhouse:n26:8414039": "2026-11-25"
 }
